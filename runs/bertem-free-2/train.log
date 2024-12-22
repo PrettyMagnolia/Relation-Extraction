@@ -1,0 +1,460 @@
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.attention.self.query.weight
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.attention.self.query.bias
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.attention.self.key.weight
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.attention.self.key.bias
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.attention.self.value.weight
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.attention.self.value.bias
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.attention.output.dense.weight
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.attention.output.dense.bias
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.attention.output.LayerNorm.weight
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.attention.output.LayerNorm.bias
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.intermediate.dense.weight
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.intermediate.dense.bias
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.output.dense.weight
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.output.dense.bias
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.output.LayerNorm.weight
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.22.output.LayerNorm.bias
+2024-12-09 11:55:59,310 - INFO - root - [FREE]: encoder.layer.23.attention.self.query.weight
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.attention.self.query.bias
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.attention.self.key.weight
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.attention.self.key.bias
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.attention.self.value.weight
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.attention.self.value.bias
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.attention.output.dense.weight
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.attention.output.dense.bias
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.attention.output.LayerNorm.weight
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.attention.output.LayerNorm.bias
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.intermediate.dense.weight
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.intermediate.dense.bias
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.output.dense.weight
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.output.dense.bias
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.output.LayerNorm.weight
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: encoder.layer.23.output.LayerNorm.bias
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: pooler.dense.weight
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: pooler.dense.bias
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: cls.predictions.bias
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: cls.predictions.transform.dense.weight
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: cls.predictions.transform.dense.bias
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: cls.predictions.transform.LayerNorm.weight
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: cls.predictions.transform.LayerNorm.bias
+2024-12-09 11:55:59,311 - INFO - root - [FREE]: cls.predictions.decoder.weight
+2024-12-09 11:55:59,312 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Starting training process...
+2024-12-09 11:55:59,312 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Found preprocessed finetune data, loading from files...
+2024-12-09 11:55:59,315 - INFO - /home/yifei/code/NLP/BERT-EM/dataset.py - Tokenizing and encoding sentences...
+2024-12-09 11:56:03,144 - INFO - /home/yifei/code/NLP/BERT-EM/dataset.py - Tokenizing and encoding sentences...
+2024-12-09 11:56:05,009 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 1, Step: 0] Train Loss: 2.95824, Train Accuracy: 0.04688
+2024-12-09 11:56:06,091 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 1, Step: 6] Train Loss: 2.83177, Train Accuracy: 0.10938
+2024-12-09 11:56:07,290 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 1, Step: 12] Train Loss: 2.65971, Train Accuracy: 0.21094
+2024-12-09 11:56:08,596 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 1, Step: 18] Train Loss: 2.62419, Train Accuracy: 0.17188
+2024-12-09 11:56:09,683 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 1, Step: 24] Train Loss: 2.47404, Train Accuracy: 0.23438
+2024-12-09 11:56:10,829 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 1, Step: 30] Train Loss: 2.40997, Train Accuracy: 0.25000
+2024-12-09 11:56:12,057 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 1, Step: 36] Train Loss: 2.25389, Train Accuracy: 0.32031
+2024-12-09 11:56:13,194 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 1, Step: 42] Train Loss: 2.19143, Train Accuracy: 0.33594
+2024-12-09 11:56:14,218 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 1, Step: 48] Train Loss: 2.03779, Train Accuracy: 0.37500
+2024-12-09 11:56:15,442 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 1, Step: 54] Train Loss: 1.82253, Train Accuracy: 0.44531
+2024-12-09 11:56:16,583 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 1, Step: 60] Train Loss: 1.85311, Train Accuracy: 0.47656
+2024-12-09 11:56:16,834 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 1 - Train Loss: 2.374241590499878, Train Accuracy: 0.2705965909090909
+2024-12-09 11:56:19,984 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 1 - Test F1: 53.05
+2024-12-09 11:56:19,985 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 11:56:22,169 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 2, Step: 66] Train Loss: 1.59533, Train Accuracy: 0.53125
+2024-12-09 11:56:23,325 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 2, Step: 72] Train Loss: 1.47408, Train Accuracy: 0.60938
+2024-12-09 11:56:24,443 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 2, Step: 78] Train Loss: 1.40848, Train Accuracy: 0.57031
+2024-12-09 11:56:25,690 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 2, Step: 84] Train Loss: 1.25776, Train Accuracy: 0.58594
+2024-12-09 11:56:26,848 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 2, Step: 90] Train Loss: 1.23796, Train Accuracy: 0.60938
+2024-12-09 11:56:27,927 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 2, Step: 96] Train Loss: 1.22802, Train Accuracy: 0.62500
+2024-12-09 11:56:28,994 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 2, Step: 102] Train Loss: 1.17963, Train Accuracy: 0.62500
+2024-12-09 11:56:30,133 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 2, Step: 108] Train Loss: 1.11995, Train Accuracy: 0.63281
+2024-12-09 11:56:31,524 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 2, Step: 114] Train Loss: 1.09268, Train Accuracy: 0.65625
+2024-12-09 11:56:32,619 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 2, Step: 120] Train Loss: 1.13681, Train Accuracy: 0.69531
+2024-12-09 11:56:33,482 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 2 - Train Loss: 1.2730716943740845, Train Accuracy: 0.6140625
+2024-12-09 11:56:36,627 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 2 - Test F1: 71.44
+2024-12-09 11:56:36,628 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 11:56:40,039 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 3, Step: 126] Train Loss: 0.83484, Train Accuracy: 0.74219
+2024-12-09 11:56:41,130 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 3, Step: 132] Train Loss: 0.72804, Train Accuracy: 0.80469
+2024-12-09 11:56:42,214 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 3, Step: 138] Train Loss: 0.93913, Train Accuracy: 0.74219
+2024-12-09 11:56:43,335 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 3, Step: 144] Train Loss: 0.97393, Train Accuracy: 0.70312
+2024-12-09 11:56:44,411 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 3, Step: 150] Train Loss: 0.82800, Train Accuracy: 0.71094
+2024-12-09 11:56:45,676 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 3, Step: 156] Train Loss: 0.70063, Train Accuracy: 0.81250
+2024-12-09 11:56:46,850 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 3, Step: 162] Train Loss: 1.05660, Train Accuracy: 0.63281
+2024-12-09 11:56:48,055 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 3, Step: 168] Train Loss: 0.96918, Train Accuracy: 0.75781
+2024-12-09 11:56:49,260 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 3, Step: 174] Train Loss: 0.89237, Train Accuracy: 0.75000
+2024-12-09 11:56:50,399 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 3, Step: 180] Train Loss: 0.76394, Train Accuracy: 0.75000
+2024-12-09 11:56:51,705 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 3, Step: 186] Train Loss: 0.79124, Train Accuracy: 0.76562
+2024-12-09 11:56:51,967 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 3 - Train Loss: 0.8616279742934487, Train Accuracy: 0.7428977272727273
+2024-12-09 11:56:55,180 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 3 - Test F1: 77.26
+2024-12-09 11:56:55,181 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 11:56:57,980 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 4, Step: 192] Train Loss: 0.79624, Train Accuracy: 0.75781
+2024-12-09 11:56:59,140 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 4, Step: 198] Train Loss: 0.76977, Train Accuracy: 0.78125
+2024-12-09 11:57:00,194 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 4, Step: 204] Train Loss: 0.81919, Train Accuracy: 0.74219
+2024-12-09 11:57:01,300 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 4, Step: 210] Train Loss: 0.71045, Train Accuracy: 0.80469
+2024-12-09 11:57:02,548 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 4, Step: 216] Train Loss: 0.54039, Train Accuracy: 0.85938
+2024-12-09 11:57:03,858 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 4, Step: 222] Train Loss: 0.59912, Train Accuracy: 0.83594
+2024-12-09 11:57:05,098 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 4, Step: 228] Train Loss: 0.70070, Train Accuracy: 0.78125
+2024-12-09 11:57:06,330 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 4, Step: 234] Train Loss: 0.59103, Train Accuracy: 0.80469
+2024-12-09 11:57:07,484 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 4, Step: 240] Train Loss: 0.71097, Train Accuracy: 0.82812
+2024-12-09 11:57:08,747 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 4, Step: 246] Train Loss: 0.79401, Train Accuracy: 0.76562
+2024-12-09 11:57:09,682 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 4 - Train Loss: 0.7031871199607849, Train Accuracy: 0.79609375
+2024-12-09 11:57:12,943 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 4 - Test F1: 80.62
+2024-12-09 11:57:12,944 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 11:57:15,100 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 5, Step: 252] Train Loss: 0.62502, Train Accuracy: 0.78906
+2024-12-09 11:57:16,219 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 5, Step: 258] Train Loss: 0.60287, Train Accuracy: 0.83594
+2024-12-09 11:57:17,553 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 5, Step: 264] Train Loss: 0.60422, Train Accuracy: 0.79688
+2024-12-09 11:57:18,764 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 5, Step: 270] Train Loss: 0.67926, Train Accuracy: 0.78906
+2024-12-09 11:57:19,965 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 5, Step: 276] Train Loss: 0.58051, Train Accuracy: 0.81250
+2024-12-09 11:57:21,140 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 5, Step: 282] Train Loss: 0.51825, Train Accuracy: 0.84375
+2024-12-09 11:57:22,354 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 5, Step: 288] Train Loss: 0.73862, Train Accuracy: 0.77344
+2024-12-09 11:57:23,670 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 5, Step: 294] Train Loss: 0.62716, Train Accuracy: 0.78906
+2024-12-09 11:57:24,887 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 5, Step: 300] Train Loss: 0.64087, Train Accuracy: 0.81250
+2024-12-09 11:57:26,242 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 5, Step: 306] Train Loss: 0.52875, Train Accuracy: 0.83594
+2024-12-09 11:57:27,414 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 5, Step: 312] Train Loss: 0.41246, Train Accuracy: 0.91406
+2024-12-09 11:57:27,726 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 5 - Train Loss: 0.5961811298673804, Train Accuracy: 0.8174715909090909
+2024-12-09 11:57:31,009 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 5 - Test F1: 81.9
+2024-12-09 11:57:31,010 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 11:57:33,612 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 6, Step: 318] Train Loss: 0.47957, Train Accuracy: 0.88281
+2024-12-09 11:57:34,714 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 6, Step: 324] Train Loss: 0.47264, Train Accuracy: 0.88281
+2024-12-09 11:57:35,864 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 6, Step: 330] Train Loss: 0.49087, Train Accuracy: 0.85938
+2024-12-09 11:57:36,912 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 6, Step: 336] Train Loss: 0.44388, Train Accuracy: 0.89062
+2024-12-09 11:57:38,142 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 6, Step: 342] Train Loss: 0.54195, Train Accuracy: 0.82812
+2024-12-09 11:57:39,255 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 6, Step: 348] Train Loss: 0.52039, Train Accuracy: 0.89062
+2024-12-09 11:57:40,562 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 6, Step: 354] Train Loss: 0.42198, Train Accuracy: 0.90625
+2024-12-09 11:57:41,701 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 6, Step: 360] Train Loss: 0.47748, Train Accuracy: 0.85156
+2024-12-09 11:57:42,995 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 6, Step: 366] Train Loss: 0.47679, Train Accuracy: 0.85156
+2024-12-09 11:57:44,119 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 6, Step: 372] Train Loss: 0.54331, Train Accuracy: 0.82812
+2024-12-09 11:57:44,932 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 6 - Train Loss: 0.48688589334487914, Train Accuracy: 0.8671875
+2024-12-09 11:57:48,080 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 6 - Test F1: 82.74
+2024-12-09 11:57:48,081 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 11:57:50,907 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 7, Step: 378] Train Loss: 0.43345, Train Accuracy: 0.90625
+2024-12-09 11:57:52,127 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 7, Step: 384] Train Loss: 0.44146, Train Accuracy: 0.88281
+2024-12-09 11:57:53,305 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 7, Step: 390] Train Loss: 0.52426, Train Accuracy: 0.85938
+2024-12-09 11:57:54,361 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 7, Step: 396] Train Loss: 0.28249, Train Accuracy: 0.93750
+2024-12-09 11:57:55,698 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 7, Step: 402] Train Loss: 0.54468, Train Accuracy: 0.83594
+2024-12-09 11:57:56,835 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 7, Step: 408] Train Loss: 0.41457, Train Accuracy: 0.89062
+2024-12-09 11:57:57,967 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 7, Step: 414] Train Loss: 0.45092, Train Accuracy: 0.85156
+2024-12-09 11:57:59,145 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 7, Step: 420] Train Loss: 0.45290, Train Accuracy: 0.86719
+2024-12-09 11:58:00,196 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 7, Step: 426] Train Loss: 0.44461, Train Accuracy: 0.87500
+2024-12-09 11:58:01,249 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 7, Step: 432] Train Loss: 0.43053, Train Accuracy: 0.89062
+2024-12-09 11:58:02,395 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 7, Step: 438] Train Loss: 0.35130, Train Accuracy: 0.92188
+2024-12-09 11:58:02,635 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 7 - Train Loss: 0.43374271284450183, Train Accuracy: 0.8835227272727273
+2024-12-09 11:58:05,788 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 7 - Test F1: 83.37
+2024-12-09 11:58:05,789 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 11:58:08,544 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 8, Step: 444] Train Loss: 0.40699, Train Accuracy: 0.89062
+2024-12-09 11:58:09,833 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 8, Step: 450] Train Loss: 0.37735, Train Accuracy: 0.90625
+2024-12-09 11:58:11,100 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 8, Step: 456] Train Loss: 0.33024, Train Accuracy: 0.91406
+2024-12-09 11:58:12,158 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 8, Step: 462] Train Loss: 0.44243, Train Accuracy: 0.85156
+2024-12-09 11:58:13,445 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 8, Step: 468] Train Loss: 0.30143, Train Accuracy: 0.92969
+2024-12-09 11:58:14,677 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 8, Step: 474] Train Loss: 0.43902, Train Accuracy: 0.87500
+2024-12-09 11:58:15,934 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 8, Step: 480] Train Loss: 0.33490, Train Accuracy: 0.92188
+2024-12-09 11:58:17,120 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 8, Step: 486] Train Loss: 0.45108, Train Accuracy: 0.83594
+2024-12-09 11:58:18,253 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 8, Step: 492] Train Loss: 0.31524, Train Accuracy: 0.94531
+2024-12-09 11:58:19,353 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 8, Step: 498] Train Loss: 0.57188, Train Accuracy: 0.81250
+2024-12-09 11:58:20,272 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 8 - Train Loss: 0.39705619513988494, Train Accuracy: 0.88828125
+2024-12-09 11:58:23,477 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 8 - Test F1: 83.85
+2024-12-09 11:58:23,478 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 11:58:26,851 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 9, Step: 504] Train Loss: 0.29303, Train Accuracy: 0.92188
+2024-12-09 11:58:27,923 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 9, Step: 510] Train Loss: 0.35844, Train Accuracy: 0.89062
+2024-12-09 11:58:29,196 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 9, Step: 516] Train Loss: 0.29860, Train Accuracy: 0.92188
+2024-12-09 11:58:30,318 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 9, Step: 522] Train Loss: 0.38458, Train Accuracy: 0.86719
+2024-12-09 11:58:31,361 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 9, Step: 528] Train Loss: 0.35340, Train Accuracy: 0.91406
+2024-12-09 11:58:32,460 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 9, Step: 534] Train Loss: 0.29859, Train Accuracy: 0.92969
+2024-12-09 11:58:33,753 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 9, Step: 540] Train Loss: 0.27962, Train Accuracy: 0.94531
+2024-12-09 11:58:34,803 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 9, Step: 546] Train Loss: 0.37588, Train Accuracy: 0.90625
+2024-12-09 11:58:36,066 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 9, Step: 552] Train Loss: 0.28158, Train Accuracy: 0.93750
+2024-12-09 11:58:37,067 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 9, Step: 558] Train Loss: 0.31791, Train Accuracy: 0.93750
+2024-12-09 11:58:38,296 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 9, Step: 564] Train Loss: 0.33048, Train Accuracy: 0.91406
+2024-12-09 11:58:38,547 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 9 - Train Loss: 0.3247375244444067, Train Accuracy: 0.9169034090909091
+2024-12-09 11:58:41,694 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 9 - Test F1: 84.01
+2024-12-09 11:58:41,695 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 11:58:44,389 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 10, Step: 570] Train Loss: 0.45079, Train Accuracy: 0.89844
+2024-12-09 11:58:45,511 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 10, Step: 576] Train Loss: 0.34540, Train Accuracy: 0.92188
+2024-12-09 11:58:46,694 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 10, Step: 582] Train Loss: 0.27526, Train Accuracy: 0.95312
+2024-12-09 11:58:47,897 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 10, Step: 588] Train Loss: 0.35763, Train Accuracy: 0.90625
+2024-12-09 11:58:49,104 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 10, Step: 594] Train Loss: 0.27940, Train Accuracy: 0.92188
+2024-12-09 11:58:50,389 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 10, Step: 600] Train Loss: 0.32969, Train Accuracy: 0.92969
+2024-12-09 11:58:51,554 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 10, Step: 606] Train Loss: 0.28999, Train Accuracy: 0.92188
+2024-12-09 11:58:52,719 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 10, Step: 612] Train Loss: 0.28890, Train Accuracy: 0.93750
+2024-12-09 11:58:53,825 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 10, Step: 618] Train Loss: 0.26505, Train Accuracy: 0.94531
+2024-12-09 11:58:55,047 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 10, Step: 624] Train Loss: 0.31857, Train Accuracy: 0.89062
+2024-12-09 11:58:56,032 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 10 - Train Loss: 0.320068883895874, Train Accuracy: 0.92265625
+2024-12-09 11:58:59,180 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 10 - Test F1: 84.48
+2024-12-09 11:58:59,182 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 11:59:02,195 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 11, Step: 630] Train Loss: 0.36375, Train Accuracy: 0.86719
+2024-12-09 11:59:03,247 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 11, Step: 636] Train Loss: 0.18808, Train Accuracy: 0.98438
+2024-12-09 11:59:04,425 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 11, Step: 642] Train Loss: 0.21469, Train Accuracy: 0.96094
+2024-12-09 11:59:05,533 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 11, Step: 648] Train Loss: 0.25194, Train Accuracy: 0.94531
+2024-12-09 11:59:06,676 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 11, Step: 654] Train Loss: 0.42500, Train Accuracy: 0.87500
+2024-12-09 11:59:07,770 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 11, Step: 660] Train Loss: 0.40138, Train Accuracy: 0.88281
+2024-12-09 11:59:08,885 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 11, Step: 666] Train Loss: 0.29214, Train Accuracy: 0.93750
+2024-12-09 11:59:09,907 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 11, Step: 672] Train Loss: 0.35675, Train Accuracy: 0.87500
+2024-12-09 11:59:11,220 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 11, Step: 678] Train Loss: 0.30490, Train Accuracy: 0.92969
+2024-12-09 11:59:12,274 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 11, Step: 684] Train Loss: 0.41665, Train Accuracy: 0.89062
+2024-12-09 11:59:13,594 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 11, Step: 690] Train Loss: 0.31972, Train Accuracy: 0.92969
+2024-12-09 11:59:13,902 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 11 - Train Loss: 0.32136513970114966, Train Accuracy: 0.9161931818181818
+2024-12-09 11:59:17,051 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 11 - Test F1: 84.55
+2024-12-09 11:59:17,051 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 11:59:20,055 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 12, Step: 696] Train Loss: 0.22263, Train Accuracy: 0.96094
+2024-12-09 11:59:21,156 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 12, Step: 702] Train Loss: 0.31343, Train Accuracy: 0.93750
+2024-12-09 11:59:22,268 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 12, Step: 708] Train Loss: 0.28151, Train Accuracy: 0.91406
+2024-12-09 11:59:23,515 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 12, Step: 714] Train Loss: 0.22268, Train Accuracy: 0.96094
+2024-12-09 11:59:24,700 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 12, Step: 720] Train Loss: 0.31828, Train Accuracy: 0.90625
+2024-12-09 11:59:25,734 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 12, Step: 726] Train Loss: 0.18165, Train Accuracy: 0.96875
+2024-12-09 11:59:26,910 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 12, Step: 732] Train Loss: 0.26639, Train Accuracy: 0.92969
+2024-12-09 11:59:28,138 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 12, Step: 738] Train Loss: 0.18049, Train Accuracy: 0.96094
+2024-12-09 11:59:29,243 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 12, Step: 744] Train Loss: 0.24286, Train Accuracy: 0.94531
+2024-12-09 11:59:30,449 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 12, Step: 750] Train Loss: 0.26273, Train Accuracy: 0.94531
+2024-12-09 11:59:31,256 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 12 - Train Loss: 0.24926463067531585, Train Accuracy: 0.94296875
+2024-12-09 11:59:34,410 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 12 - Test F1: 84.18
+2024-12-09 11:59:34,578 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 13, Step: 756] Train Loss: 0.25515, Train Accuracy: 0.95312
+2024-12-09 11:59:35,674 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 13, Step: 762] Train Loss: 0.26183, Train Accuracy: 0.92969
+2024-12-09 11:59:36,793 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 13, Step: 768] Train Loss: 0.26679, Train Accuracy: 0.92969
+2024-12-09 11:59:37,780 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 13, Step: 774] Train Loss: 0.28628, Train Accuracy: 0.89844
+2024-12-09 11:59:39,072 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 13, Step: 780] Train Loss: 0.17293, Train Accuracy: 0.98438
+2024-12-09 11:59:40,114 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 13, Step: 786] Train Loss: 0.21736, Train Accuracy: 0.96875
+2024-12-09 11:59:41,280 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 13, Step: 792] Train Loss: 0.20175, Train Accuracy: 0.95312
+2024-12-09 11:59:42,561 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 13, Step: 798] Train Loss: 0.24718, Train Accuracy: 0.94531
+2024-12-09 11:59:43,684 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 13, Step: 804] Train Loss: 0.30394, Train Accuracy: 0.89844
+2024-12-09 11:59:44,958 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 13, Step: 810] Train Loss: 0.19017, Train Accuracy: 0.94531
+2024-12-09 11:59:46,084 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 13, Step: 816] Train Loss: 0.26631, Train Accuracy: 0.90625
+2024-12-09 11:59:46,426 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 13 - Train Loss: 0.24269959330558777, Train Accuracy: 0.9375
+2024-12-09 11:59:49,573 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 13 - Test F1: 84.6
+2024-12-09 11:59:49,575 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 11:59:52,374 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 14, Step: 822] Train Loss: 0.22898, Train Accuracy: 0.96094
+2024-12-09 11:59:53,419 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 14, Step: 828] Train Loss: 0.21814, Train Accuracy: 0.96094
+2024-12-09 11:59:54,537 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 14, Step: 834] Train Loss: 0.23388, Train Accuracy: 0.93750
+2024-12-09 11:59:55,772 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 14, Step: 840] Train Loss: 0.21135, Train Accuracy: 0.95312
+2024-12-09 11:59:56,845 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 14, Step: 846] Train Loss: 0.22917, Train Accuracy: 0.94531
+2024-12-09 11:59:57,911 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 14, Step: 852] Train Loss: 0.21008, Train Accuracy: 0.97656
+2024-12-09 11:59:59,115 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 14, Step: 858] Train Loss: 0.23935, Train Accuracy: 0.94531
+2024-12-09 12:00:00,204 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 14, Step: 864] Train Loss: 0.26303, Train Accuracy: 0.92188
+2024-12-09 12:00:01,421 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 14, Step: 870] Train Loss: 0.18633, Train Accuracy: 0.96094
+2024-12-09 12:00:02,497 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 14, Step: 876] Train Loss: 0.24580, Train Accuracy: 0.93750
+2024-12-09 12:00:03,519 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 14 - Train Loss: 0.22660932391881944, Train Accuracy: 0.95
+2024-12-09 12:00:06,664 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 14 - Test F1: 84.65
+2024-12-09 12:00:06,665 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 12:00:08,843 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 15, Step: 882] Train Loss: 0.16736, Train Accuracy: 0.96094
+2024-12-09 12:00:09,967 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 15, Step: 888] Train Loss: 0.18154, Train Accuracy: 0.96875
+2024-12-09 12:00:11,217 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 15, Step: 894] Train Loss: 0.22232, Train Accuracy: 0.92969
+2024-12-09 12:00:12,311 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 15, Step: 900] Train Loss: 0.23321, Train Accuracy: 0.95312
+2024-12-09 12:00:13,491 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 15, Step: 906] Train Loss: 0.21355, Train Accuracy: 0.96094
+2024-12-09 12:00:14,740 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 15, Step: 912] Train Loss: 0.21406, Train Accuracy: 0.94531
+2024-12-09 12:00:15,832 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 15, Step: 918] Train Loss: 0.23678, Train Accuracy: 0.93750
+2024-12-09 12:00:16,889 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 15, Step: 924] Train Loss: 0.19321, Train Accuracy: 0.97656
+2024-12-09 12:00:18,005 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 15, Step: 930] Train Loss: 0.23368, Train Accuracy: 0.96094
+2024-12-09 12:00:19,301 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 15, Step: 936] Train Loss: 0.16597, Train Accuracy: 0.99219
+2024-12-09 12:00:20,425 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 15, Step: 942] Train Loss: 0.22542, Train Accuracy: 0.95312
+2024-12-09 12:00:20,693 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 15 - Train Loss: 0.20791934430599213, Train Accuracy: 0.9580965909090909
+2024-12-09 12:00:23,823 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 15 - Test F1: 84.92
+2024-12-09 12:00:23,824 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 12:00:26,788 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 16, Step: 948] Train Loss: 0.17318, Train Accuracy: 0.96875
+2024-12-09 12:00:27,958 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 16, Step: 954] Train Loss: 0.19754, Train Accuracy: 0.95312
+2024-12-09 12:00:29,180 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 16, Step: 960] Train Loss: 0.19898, Train Accuracy: 0.96875
+2024-12-09 12:00:30,379 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 16, Step: 966] Train Loss: 0.16690, Train Accuracy: 0.96875
+2024-12-09 12:00:31,604 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 16, Step: 972] Train Loss: 0.21059, Train Accuracy: 0.94531
+2024-12-09 12:00:32,825 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 16, Step: 978] Train Loss: 0.17453, Train Accuracy: 0.97656
+2024-12-09 12:00:33,933 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 16, Step: 984] Train Loss: 0.22817, Train Accuracy: 0.92188
+2024-12-09 12:00:35,092 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 16, Step: 990] Train Loss: 0.26498, Train Accuracy: 0.91406
+2024-12-09 12:00:36,367 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 16, Step: 996] Train Loss: 0.23786, Train Accuracy: 0.90625
+2024-12-09 12:00:37,409 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 16, Step: 1002] Train Loss: 0.27017, Train Accuracy: 0.94531
+2024-12-09 12:00:38,242 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 16 - Train Loss: 0.21229046136140822, Train Accuracy: 0.946875
+2024-12-09 12:00:41,386 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 16 - Test F1: 84.71
+2024-12-09 12:00:41,604 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 17, Step: 1008] Train Loss: 0.13829, Train Accuracy: 0.97656
+2024-12-09 12:00:42,603 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 17, Step: 1014] Train Loss: 0.17920, Train Accuracy: 0.97656
+2024-12-09 12:00:43,755 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 17, Step: 1020] Train Loss: 0.13906, Train Accuracy: 0.98438
+2024-12-09 12:00:44,991 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 17, Step: 1026] Train Loss: 0.23399, Train Accuracy: 0.96094
+2024-12-09 12:00:46,160 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 17, Step: 1032] Train Loss: 0.22260, Train Accuracy: 0.95312
+2024-12-09 12:00:47,448 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 17, Step: 1038] Train Loss: 0.24273, Train Accuracy: 0.92969
+2024-12-09 12:00:48,620 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 17, Step: 1044] Train Loss: 0.16443, Train Accuracy: 0.97656
+2024-12-09 12:00:49,787 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 17, Step: 1050] Train Loss: 0.19376, Train Accuracy: 0.95312
+2024-12-09 12:00:50,901 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 17, Step: 1056] Train Loss: 0.16995, Train Accuracy: 0.97656
+2024-12-09 12:00:52,200 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 17, Step: 1062] Train Loss: 0.24739, Train Accuracy: 0.92969
+2024-12-09 12:00:53,280 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 17, Step: 1068] Train Loss: 0.23385, Train Accuracy: 0.96094
+2024-12-09 12:00:53,584 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 17 - Train Loss: 0.1968406696211208, Train Accuracy: 0.9616477272727273
+2024-12-09 12:00:56,733 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 17 - Test F1: 85.03
+2024-12-09 12:00:56,734 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 12:00:59,772 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 18, Step: 1074] Train Loss: 0.16713, Train Accuracy: 0.96094
+2024-12-09 12:01:00,948 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 18, Step: 1080] Train Loss: 0.17576, Train Accuracy: 0.95312
+2024-12-09 12:01:02,255 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 18, Step: 1086] Train Loss: 0.21491, Train Accuracy: 0.95312
+2024-12-09 12:01:03,357 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 18, Step: 1092] Train Loss: 0.17436, Train Accuracy: 0.96875
+2024-12-09 12:01:04,552 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 18, Step: 1098] Train Loss: 0.16762, Train Accuracy: 0.97656
+2024-12-09 12:01:05,843 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 18, Step: 1104] Train Loss: 0.19667, Train Accuracy: 0.95312
+2024-12-09 12:01:07,009 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 18, Step: 1110] Train Loss: 0.19544, Train Accuracy: 0.95312
+2024-12-09 12:01:08,192 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 18, Step: 1116] Train Loss: 0.19475, Train Accuracy: 0.96094
+2024-12-09 12:01:09,331 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 18, Step: 1122] Train Loss: 0.15503, Train Accuracy: 0.97656
+2024-12-09 12:01:10,726 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 18, Step: 1128] Train Loss: 0.14754, Train Accuracy: 0.96875
+2024-12-09 12:01:11,669 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 18 - Train Loss: 0.17892099916934967, Train Accuracy: 0.9625
+2024-12-09 12:01:14,924 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 18 - Test F1: 85.13
+2024-12-09 12:01:14,925 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Saving best model...
+2024-12-09 12:01:17,219 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 19, Step: 1134] Train Loss: 0.16523, Train Accuracy: 0.97656
+2024-12-09 12:01:18,263 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 19, Step: 1140] Train Loss: 0.17565, Train Accuracy: 0.96094
+2024-12-09 12:01:19,360 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 19, Step: 1146] Train Loss: 0.21903, Train Accuracy: 0.95312
+2024-12-09 12:01:20,577 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 19, Step: 1152] Train Loss: 0.14597, Train Accuracy: 0.99219
+2024-12-09 12:01:21,693 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 19, Step: 1158] Train Loss: 0.13829, Train Accuracy: 0.98438
+2024-12-09 12:01:22,983 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 19, Step: 1164] Train Loss: 0.16264, Train Accuracy: 0.96875
+2024-12-09 12:01:24,148 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 19, Step: 1170] Train Loss: 0.11137, Train Accuracy: 0.99219
+2024-12-09 12:01:25,417 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 19, Step: 1176] Train Loss: 0.18321, Train Accuracy: 0.96875
+2024-12-09 12:01:26,593 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 19, Step: 1182] Train Loss: 0.18033, Train Accuracy: 0.94531
+2024-12-09 12:01:27,754 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 19, Step: 1188] Train Loss: 0.14718, Train Accuracy: 0.98438
+2024-12-09 12:01:28,927 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 19, Step: 1194] Train Loss: 0.11708, Train Accuracy: 0.99219
+2024-12-09 12:01:29,227 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 19 - Train Loss: 0.1587261124090715, Train Accuracy: 0.9744318181818182
+2024-12-09 12:01:32,396 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 19 - Test F1: 84.87
+2024-12-09 12:01:33,158 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 20, Step: 1200] Train Loss: 0.18449, Train Accuracy: 0.96875
+2024-12-09 12:01:34,373 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 20, Step: 1206] Train Loss: 0.15006, Train Accuracy: 0.96875
+2024-12-09 12:01:35,578 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 20, Step: 1212] Train Loss: 0.15441, Train Accuracy: 0.98438
+2024-12-09 12:01:36,645 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 20, Step: 1218] Train Loss: 0.14957, Train Accuracy: 0.97656
+2024-12-09 12:01:37,748 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 20, Step: 1224] Train Loss: 0.17573, Train Accuracy: 0.96094
+2024-12-09 12:01:38,833 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 20, Step: 1230] Train Loss: 0.17989, Train Accuracy: 0.94531
+2024-12-09 12:01:40,069 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 20, Step: 1236] Train Loss: 0.18661, Train Accuracy: 0.94531
+2024-12-09 12:01:41,206 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 20, Step: 1242] Train Loss: 0.17149, Train Accuracy: 0.97656
+2024-12-09 12:01:42,263 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 20, Step: 1248] Train Loss: 0.13420, Train Accuracy: 1.00000
+2024-12-09 12:01:43,462 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 20, Step: 1254] Train Loss: 0.15338, Train Accuracy: 0.99219
+2024-12-09 12:01:44,249 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 20 - Train Loss: 0.16398442834615706, Train Accuracy: 0.971875
+2024-12-09 12:01:47,449 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 20 - Test F1: 84.59
+2024-12-09 12:01:47,627 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 21, Step: 1260] Train Loss: 0.13118, Train Accuracy: 0.98438
+2024-12-09 12:01:48,840 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 21, Step: 1266] Train Loss: 0.12767, Train Accuracy: 0.98438
+2024-12-09 12:01:50,058 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 21, Step: 1272] Train Loss: 0.10141, Train Accuracy: 0.98438
+2024-12-09 12:01:51,429 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 21, Step: 1278] Train Loss: 0.15539, Train Accuracy: 0.96094
+2024-12-09 12:01:52,554 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 21, Step: 1284] Train Loss: 0.16156, Train Accuracy: 0.96875
+2024-12-09 12:01:53,547 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 21, Step: 1290] Train Loss: 0.16582, Train Accuracy: 0.94531
+2024-12-09 12:01:54,787 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 21, Step: 1296] Train Loss: 0.12532, Train Accuracy: 0.98438
+2024-12-09 12:01:55,922 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 21, Step: 1302] Train Loss: 0.17425, Train Accuracy: 0.95312
+2024-12-09 12:01:56,935 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 21, Step: 1308] Train Loss: 0.16897, Train Accuracy: 0.96094
+2024-12-09 12:01:58,112 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 21, Step: 1314] Train Loss: 0.11005, Train Accuracy: 0.98438
+2024-12-09 12:01:59,285 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 21, Step: 1320] Train Loss: 0.19882, Train Accuracy: 0.96094
+2024-12-09 12:01:59,642 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 21 - Train Loss: 0.14731294864957983, Train Accuracy: 0.9701704545454546
+2024-12-09 12:02:02,926 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 21 - Test F1: 84.86
+2024-12-09 12:02:03,696 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 22, Step: 1326] Train Loss: 0.15874, Train Accuracy: 0.97656
+2024-12-09 12:02:04,940 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 22, Step: 1332] Train Loss: 0.17260, Train Accuracy: 0.95312
+2024-12-09 12:02:06,019 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 22, Step: 1338] Train Loss: 0.15558, Train Accuracy: 0.96094
+2024-12-09 12:02:07,139 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 22, Step: 1344] Train Loss: 0.13902, Train Accuracy: 0.96875
+2024-12-09 12:02:08,220 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 22, Step: 1350] Train Loss: 0.11666, Train Accuracy: 0.99219
+2024-12-09 12:02:09,404 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 22, Step: 1356] Train Loss: 0.11677, Train Accuracy: 0.98438
+2024-12-09 12:02:10,574 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 22, Step: 1362] Train Loss: 0.14634, Train Accuracy: 0.96875
+2024-12-09 12:02:11,821 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 22, Step: 1368] Train Loss: 0.14319, Train Accuracy: 0.96875
+2024-12-09 12:02:12,962 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 22, Step: 1374] Train Loss: 0.15521, Train Accuracy: 0.96094
+2024-12-09 12:02:14,251 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 22, Step: 1380] Train Loss: 0.20982, Train Accuracy: 0.97656
+2024-12-09 12:02:15,071 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 22 - Train Loss: 0.15139389410614967, Train Accuracy: 0.97109375
+2024-12-09 12:02:18,252 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 22 - Test F1: 84.54
+2024-12-09 12:02:18,439 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 23, Step: 1386] Train Loss: 0.12217, Train Accuracy: 0.97656
+2024-12-09 12:02:19,669 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 23, Step: 1392] Train Loss: 0.11244, Train Accuracy: 1.00000
+2024-12-09 12:02:20,696 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 23, Step: 1398] Train Loss: 0.14652, Train Accuracy: 0.99219
+2024-12-09 12:02:21,873 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 23, Step: 1404] Train Loss: 0.13526, Train Accuracy: 0.96875
+2024-12-09 12:02:23,042 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 23, Step: 1410] Train Loss: 0.12464, Train Accuracy: 1.00000
+2024-12-09 12:02:24,103 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 23, Step: 1416] Train Loss: 0.15810, Train Accuracy: 0.97656
+2024-12-09 12:02:25,396 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 23, Step: 1422] Train Loss: 0.19193, Train Accuracy: 0.95312
+2024-12-09 12:02:26,458 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 23, Step: 1428] Train Loss: 0.14731, Train Accuracy: 0.96875
+2024-12-09 12:02:27,535 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 23, Step: 1434] Train Loss: 0.10549, Train Accuracy: 0.99219
+2024-12-09 12:02:28,725 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 23, Step: 1440] Train Loss: 0.10858, Train Accuracy: 0.98438
+2024-12-09 12:02:29,983 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 23, Step: 1446] Train Loss: 0.12474, Train Accuracy: 0.97656
+2024-12-09 12:02:30,281 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 23 - Train Loss: 0.13429139351302927, Train Accuracy: 0.9808238636363636
+2024-12-09 12:02:33,470 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 23 - Test F1: 84.47
+2024-12-09 12:02:34,272 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 24, Step: 1452] Train Loss: 0.12878, Train Accuracy: 0.98438
+2024-12-09 12:02:35,460 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 24, Step: 1458] Train Loss: 0.12959, Train Accuracy: 0.99219
+2024-12-09 12:02:36,665 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 24, Step: 1464] Train Loss: 0.14915, Train Accuracy: 0.99219
+2024-12-09 12:02:37,769 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 24, Step: 1470] Train Loss: 0.13219, Train Accuracy: 0.97656
+2024-12-09 12:02:39,034 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 24, Step: 1476] Train Loss: 0.16499, Train Accuracy: 0.96875
+2024-12-09 12:02:40,105 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 24, Step: 1482] Train Loss: 0.15133, Train Accuracy: 0.95312
+2024-12-09 12:02:41,139 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 24, Step: 1488] Train Loss: 0.11296, Train Accuracy: 0.97656
+2024-12-09 12:02:42,358 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 24, Step: 1494] Train Loss: 0.09857, Train Accuracy: 1.00000
+2024-12-09 12:02:43,525 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 24, Step: 1500] Train Loss: 0.13655, Train Accuracy: 0.98438
+2024-12-09 12:02:44,687 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 24, Step: 1506] Train Loss: 0.12162, Train Accuracy: 0.99219
+2024-12-09 12:02:45,531 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 24 - Train Loss: 0.1325732596218586, Train Accuracy: 0.98203125
+2024-12-09 12:02:48,721 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 24 - Test F1: 84.66
+2024-12-09 12:02:48,892 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 25, Step: 1512] Train Loss: 0.16876, Train Accuracy: 0.95312
+2024-12-09 12:02:50,103 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 25, Step: 1518] Train Loss: 0.13119, Train Accuracy: 0.98438
+2024-12-09 12:02:51,319 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 25, Step: 1524] Train Loss: 0.11107, Train Accuracy: 1.00000
+2024-12-09 12:02:52,560 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 25, Step: 1530] Train Loss: 0.11416, Train Accuracy: 0.97656
+2024-12-09 12:02:53,688 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 25, Step: 1536] Train Loss: 0.13464, Train Accuracy: 0.98438
+2024-12-09 12:02:54,837 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 25, Step: 1542] Train Loss: 0.12384, Train Accuracy: 0.98438
+2024-12-09 12:02:55,873 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 25, Step: 1548] Train Loss: 0.12125, Train Accuracy: 0.96875
+2024-12-09 12:02:57,145 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 25, Step: 1554] Train Loss: 0.13661, Train Accuracy: 0.98438
+2024-12-09 12:02:58,291 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 25, Step: 1560] Train Loss: 0.12578, Train Accuracy: 0.99219
+2024-12-09 12:02:59,591 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 25, Step: 1566] Train Loss: 0.10050, Train Accuracy: 1.00000
+2024-12-09 12:03:00,673 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 25, Step: 1572] Train Loss: 0.13888, Train Accuracy: 0.97656
+2024-12-09 12:03:01,045 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 25 - Train Loss: 0.1278781613165682, Train Accuracy: 0.9822443181818182
+2024-12-09 12:03:04,390 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 25 - Test F1: 84.88
+2024-12-09 12:03:05,174 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 26, Step: 1578] Train Loss: 0.12075, Train Accuracy: 1.00000
+2024-12-09 12:03:06,295 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 26, Step: 1584] Train Loss: 0.14248, Train Accuracy: 0.97656
+2024-12-09 12:03:07,541 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 26, Step: 1590] Train Loss: 0.09948, Train Accuracy: 0.97656
+2024-12-09 12:03:08,720 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 26, Step: 1596] Train Loss: 0.14101, Train Accuracy: 0.96875
+2024-12-09 12:03:09,838 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 26, Step: 1602] Train Loss: 0.12737, Train Accuracy: 0.97656
+2024-12-09 12:03:10,892 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 26, Step: 1608] Train Loss: 0.12994, Train Accuracy: 0.97656
+2024-12-09 12:03:12,054 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 26, Step: 1614] Train Loss: 0.10135, Train Accuracy: 1.00000
+2024-12-09 12:03:13,237 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 26, Step: 1620] Train Loss: 0.10127, Train Accuracy: 0.99219
+2024-12-09 12:03:14,499 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 26, Step: 1626] Train Loss: 0.14987, Train Accuracy: 0.97656
+2024-12-09 12:03:15,566 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 26, Step: 1632] Train Loss: 0.13039, Train Accuracy: 0.96875
+2024-12-09 12:03:16,501 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 26 - Train Loss: 0.12439114153385163, Train Accuracy: 0.98125
+2024-12-09 12:03:19,784 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 26 - Test F1: 84.9
+2024-12-09 12:03:20,023 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 27, Step: 1638] Train Loss: 0.10795, Train Accuracy: 0.99219
+2024-12-09 12:03:21,178 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 27, Step: 1644] Train Loss: 0.11353, Train Accuracy: 0.99219
+2024-12-09 12:03:22,282 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 27, Step: 1650] Train Loss: 0.16410, Train Accuracy: 0.96094
+2024-12-09 12:03:23,387 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 27, Step: 1656] Train Loss: 0.10913, Train Accuracy: 0.98438
+2024-12-09 12:03:24,664 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 27, Step: 1662] Train Loss: 0.15497, Train Accuracy: 0.96094
+2024-12-09 12:03:25,842 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 27, Step: 1668] Train Loss: 0.08823, Train Accuracy: 0.99219
+2024-12-09 12:03:26,957 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 27, Step: 1674] Train Loss: 0.11756, Train Accuracy: 0.97656
+2024-12-09 12:03:28,171 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 27, Step: 1680] Train Loss: 0.13986, Train Accuracy: 0.99219
+2024-12-09 12:03:29,238 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 27, Step: 1686] Train Loss: 0.09770, Train Accuracy: 0.98438
+2024-12-09 12:03:30,484 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 27, Step: 1692] Train Loss: 0.10950, Train Accuracy: 1.00000
+2024-12-09 12:03:31,613 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 27, Step: 1698] Train Loss: 0.10356, Train Accuracy: 0.98438
+2024-12-09 12:03:31,870 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 27 - Train Loss: 0.11873567917130211, Train Accuracy: 0.9836647727272727
+2024-12-09 12:03:35,173 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 27 - Test F1: 84.84
+2024-12-09 12:03:35,877 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 28, Step: 1704] Train Loss: 0.10669, Train Accuracy: 0.99219
+2024-12-09 12:03:36,979 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 28, Step: 1710] Train Loss: 0.11446, Train Accuracy: 0.98438
+2024-12-09 12:03:38,087 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 28, Step: 1716] Train Loss: 0.13630, Train Accuracy: 0.96875
+2024-12-09 12:03:39,240 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 28, Step: 1722] Train Loss: 0.13548, Train Accuracy: 0.98438
+2024-12-09 12:03:40,542 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 28, Step: 1728] Train Loss: 0.10840, Train Accuracy: 0.98438
+2024-12-09 12:03:41,680 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 28, Step: 1734] Train Loss: 0.13335, Train Accuracy: 0.97656
+2024-12-09 12:03:43,017 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 28, Step: 1740] Train Loss: 0.11698, Train Accuracy: 0.98438
+2024-12-09 12:03:44,141 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 28, Step: 1746] Train Loss: 0.11940, Train Accuracy: 0.96875
+2024-12-09 12:03:45,280 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 28, Step: 1752] Train Loss: 0.08672, Train Accuracy: 0.99219
+2024-12-09 12:03:46,535 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 28, Step: 1758] Train Loss: 0.10947, Train Accuracy: 0.98438
+2024-12-09 12:03:47,409 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 28 - Train Loss: 0.11672361493110657, Train Accuracy: 0.98203125
+2024-12-09 12:03:50,563 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 28 - Test F1: 84.8
+2024-12-09 12:03:50,741 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 29, Step: 1764] Train Loss: 0.16033, Train Accuracy: 0.96875
+2024-12-09 12:03:51,734 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 29, Step: 1770] Train Loss: 0.09925, Train Accuracy: 1.00000
+2024-12-09 12:03:52,729 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 29, Step: 1776] Train Loss: 0.07925, Train Accuracy: 1.00000
+2024-12-09 12:03:53,874 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 29, Step: 1782] Train Loss: 0.07945, Train Accuracy: 0.99219
+2024-12-09 12:03:55,081 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 29, Step: 1788] Train Loss: 0.11099, Train Accuracy: 0.97656
+2024-12-09 12:03:56,393 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 29, Step: 1794] Train Loss: 0.09437, Train Accuracy: 0.98438
+2024-12-09 12:03:57,595 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 29, Step: 1800] Train Loss: 0.10085, Train Accuracy: 0.99219
+2024-12-09 12:03:58,792 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 29, Step: 1806] Train Loss: 0.11796, Train Accuracy: 0.98438
+2024-12-09 12:03:59,911 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 29, Step: 1812] Train Loss: 0.11397, Train Accuracy: 0.97656
+2024-12-09 12:04:01,074 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 29, Step: 1818] Train Loss: 0.11261, Train Accuracy: 0.99219
+2024-12-09 12:04:02,255 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 29, Step: 1824] Train Loss: 0.11345, Train Accuracy: 0.99219
+2024-12-09 12:04:02,497 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 29 - Train Loss: 0.10749809647148306, Train Accuracy: 0.9872159090909091
+2024-12-09 12:04:05,641 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 29 - Test F1: 84.71
+2024-12-09 12:04:06,480 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 30, Step: 1830] Train Loss: 0.12282, Train Accuracy: 0.97656
+2024-12-09 12:04:07,708 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 30, Step: 1836] Train Loss: 0.15995, Train Accuracy: 0.97656
+2024-12-09 12:04:08,863 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 30, Step: 1842] Train Loss: 0.12635, Train Accuracy: 0.97656
+2024-12-09 12:04:10,110 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 30, Step: 1848] Train Loss: 0.13716, Train Accuracy: 0.97656
+2024-12-09 12:04:11,308 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 30, Step: 1854] Train Loss: 0.10566, Train Accuracy: 1.00000
+2024-12-09 12:04:12,498 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 30, Step: 1860] Train Loss: 0.12366, Train Accuracy: 0.98438
+2024-12-09 12:04:13,670 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 30, Step: 1866] Train Loss: 0.13002, Train Accuracy: 0.97656
+2024-12-09 12:04:14,742 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 30, Step: 1872] Train Loss: 0.09941, Train Accuracy: 0.99219
+2024-12-09 12:04:15,832 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 30, Step: 1878] Train Loss: 0.12236, Train Accuracy: 0.97656
+2024-12-09 12:04:16,941 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 30, Step: 1884] Train Loss: 0.10800, Train Accuracy: 1.00000
+2024-12-09 12:04:17,906 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 30 - Train Loss: 0.12353888526558876, Train Accuracy: 0.98359375
+2024-12-09 12:04:21,224 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 30 - Test F1: 84.92
+2024-12-09 12:04:21,395 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 31, Step: 1890] Train Loss: 0.08383, Train Accuracy: 1.00000
+2024-12-09 12:04:22,541 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 31, Step: 1896] Train Loss: 0.14471, Train Accuracy: 0.96875
+2024-12-09 12:04:23,813 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 31, Step: 1902] Train Loss: 0.10579, Train Accuracy: 1.00000
+2024-12-09 12:04:24,983 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 31, Step: 1908] Train Loss: 0.11183, Train Accuracy: 0.97656
+2024-12-09 12:04:26,260 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 31, Step: 1914] Train Loss: 0.09336, Train Accuracy: 0.99219
+2024-12-09 12:04:27,418 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 31, Step: 1920] Train Loss: 0.14082, Train Accuracy: 0.97656
+2024-12-09 12:04:28,545 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 31, Step: 1926] Train Loss: 0.12118, Train Accuracy: 0.97656
+2024-12-09 12:04:29,768 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 31, Step: 1932] Train Loss: 0.15475, Train Accuracy: 0.95312
+2024-12-09 12:04:30,879 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 31, Step: 1938] Train Loss: 0.09167, Train Accuracy: 0.99219
+2024-12-09 12:04:32,143 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 31, Step: 1944] Train Loss: 0.07866, Train Accuracy: 0.99219
+2024-12-09 12:04:33,222 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 31, Step: 1950] Train Loss: 0.14317, Train Accuracy: 0.98438
+2024-12-09 12:04:33,520 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 31 - Train Loss: 0.11543537473136728, Train Accuracy: 0.9829545454545454
+2024-12-09 12:04:36,685 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 31 - Test F1: 84.88
+2024-12-09 12:04:37,450 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 32, Step: 1956] Train Loss: 0.11845, Train Accuracy: 0.99219
+2024-12-09 12:04:38,606 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 32, Step: 1962] Train Loss: 0.10932, Train Accuracy: 0.96875
+2024-12-09 12:04:39,699 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 32, Step: 1968] Train Loss: 0.08417, Train Accuracy: 1.00000
+2024-12-09 12:04:40,914 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 32, Step: 1974] Train Loss: 0.09735, Train Accuracy: 0.98438
+2024-12-09 12:04:42,070 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 32, Step: 1980] Train Loss: 0.10483, Train Accuracy: 0.99219
+2024-12-09 12:04:43,293 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 32, Step: 1986] Train Loss: 0.09273, Train Accuracy: 1.00000
+2024-12-09 12:04:44,401 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 32, Step: 1992] Train Loss: 0.12841, Train Accuracy: 0.98438
+2024-12-09 12:04:45,501 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 32, Step: 1998] Train Loss: 0.09632, Train Accuracy: 0.99219
+2024-12-09 12:04:46,702 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 32, Step: 2004] Train Loss: 0.10302, Train Accuracy: 0.97656
+2024-12-09 12:04:47,885 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - [Epoch: 32, Step: 2010] Train Loss: 0.11773, Train Accuracy: 0.97656
+2024-12-09 12:04:48,740 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 32 - Train Loss: 0.10523223131895065, Train Accuracy: 0.98671875
+2024-12-09 12:04:51,889 - INFO - /home/yifei/code/NLP/BERT-EM/fintune.py - Epoch 32 - Test F1: 84.9

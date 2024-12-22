@@ -1,0 +1,417 @@
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.attention.self.query.weight
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.attention.self.query.bias
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.attention.self.key.weight
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.attention.self.key.bias
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.attention.self.value.weight
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.attention.self.value.bias
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.attention.output.dense.weight
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.attention.output.dense.bias
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.attention.output.LayerNorm.weight
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.attention.output.LayerNorm.bias
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.intermediate.dense.weight
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.intermediate.dense.bias
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.output.dense.weight
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.output.dense.bias
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.output.LayerNorm.weight
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.22.output.LayerNorm.bias
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.23.attention.self.query.weight
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.23.attention.self.query.bias
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.23.attention.self.key.weight
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.23.attention.self.key.bias
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.23.attention.self.value.weight
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.23.attention.self.value.bias
+2024-12-09 00:33:23,540 - INFO - root - [FREE]: encoder.layer.23.attention.output.dense.weight
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: encoder.layer.23.attention.output.dense.bias
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: encoder.layer.23.attention.output.LayerNorm.weight
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: encoder.layer.23.attention.output.LayerNorm.bias
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: encoder.layer.23.intermediate.dense.weight
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: encoder.layer.23.intermediate.dense.bias
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: encoder.layer.23.output.dense.weight
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: encoder.layer.23.output.dense.bias
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: encoder.layer.23.output.LayerNorm.weight
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: encoder.layer.23.output.LayerNorm.bias
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: pooler.dense.weight
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: pooler.dense.bias
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: cls.predictions.bias
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: cls.predictions.transform.dense.weight
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: cls.predictions.transform.dense.bias
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: cls.predictions.transform.LayerNorm.weight
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: cls.predictions.transform.LayerNorm.bias
+2024-12-09 00:33:23,541 - INFO - root - [FREE]: cls.predictions.decoder.weight
+2024-12-09 00:34:48,075 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 1, Step: 162] Train Loss: 7.44167, Train Accuracy: 0.32902
+2024-12-09 00:36:10,149 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 1, Step: 324] Train Loss: 6.52662, Train Accuracy: 0.35832
+2024-12-09 00:37:32,479 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 1, Step: 486] Train Loss: 5.93247, Train Accuracy: 0.35714
+2024-12-09 00:38:52,794 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 1, Step: 648] Train Loss: 5.58589, Train Accuracy: 0.41383
+2024-12-09 00:40:14,183 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 1, Step: 810] Train Loss: 5.43384, Train Accuracy: 0.42349
+2024-12-09 00:41:37,575 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 1, Step: 972] Train Loss: 5.11799, Train Accuracy: 0.44607
+2024-12-09 00:43:52,248 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 1, Step: 1134] Train Loss: 5.27608, Train Accuracy: 0.42930
+2024-12-09 00:45:13,452 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 1, Step: 1296] Train Loss: 4.85807, Train Accuracy: 0.47917
+2024-12-09 00:46:35,976 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 1, Step: 1458] Train Loss: 4.81884, Train Accuracy: 0.45772
+2024-12-09 00:48:33,609 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 1, Step: 1620] Train Loss: 4.49163, Train Accuracy: 0.50722
+2024-12-09 00:48:37,546 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 1 - Train Loss: 5.548309183120727, Train Accuracy: 0.42012750506401064
+2024-12-09 00:48:37,547 - INFO - root - Saving best model...
+2024-12-09 00:49:55,916 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 2, Step: 1782] Train Loss: 4.73727, Train Accuracy: 0.48156
+2024-12-09 00:51:16,679 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 2, Step: 1944] Train Loss: 4.32653, Train Accuracy: 0.52620
+2024-12-09 00:52:37,804 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 2, Step: 2106] Train Loss: 4.22022, Train Accuracy: 0.55736
+2024-12-09 00:53:58,182 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 2, Step: 2268] Train Loss: 4.27885, Train Accuracy: 0.55978
+2024-12-09 00:55:19,418 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 2, Step: 2430] Train Loss: 4.30228, Train Accuracy: 0.54517
+2024-12-09 00:56:39,916 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 2, Step: 2592] Train Loss: 4.24901, Train Accuracy: 0.53183
+2024-12-09 00:58:01,295 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 2, Step: 2754] Train Loss: 4.14440, Train Accuracy: 0.57004
+2024-12-09 00:59:22,832 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 2, Step: 2916] Train Loss: 4.02417, Train Accuracy: 0.57290
+2024-12-09 01:00:44,998 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 2, Step: 3078] Train Loss: 4.00510, Train Accuracy: 0.60445
+2024-12-09 01:02:05,846 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 2, Step: 3240] Train Loss: 4.12323, Train Accuracy: 0.56842
+2024-12-09 01:02:13,585 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 2 - Train Loss: 4.241106939315796, Train Accuracy: 0.5517717897891998
+2024-12-09 01:02:13,586 - INFO - root - Saving best model...
+2024-12-09 01:03:30,030 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 3, Step: 3402] Train Loss: 3.59579, Train Accuracy: 0.62123
+2024-12-09 01:04:50,393 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 3, Step: 3564] Train Loss: 3.84619, Train Accuracy: 0.59897
+2024-12-09 01:06:11,817 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 3, Step: 3726] Train Loss: 3.60164, Train Accuracy: 0.64516
+2024-12-09 01:07:32,693 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 3, Step: 3888] Train Loss: 3.68285, Train Accuracy: 0.62735
+2024-12-09 01:08:53,623 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 3, Step: 4050] Train Loss: 3.37654, Train Accuracy: 0.67122
+2024-12-09 01:10:15,644 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 3, Step: 4212] Train Loss: 3.57338, Train Accuracy: 0.66144
+2024-12-09 01:11:38,526 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 3, Step: 4374] Train Loss: 3.38368, Train Accuracy: 0.69184
+2024-12-09 01:13:00,228 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 3, Step: 4536] Train Loss: 3.29419, Train Accuracy: 0.69223
+2024-12-09 01:14:22,409 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 3, Step: 4698] Train Loss: 3.53247, Train Accuracy: 0.66559
+2024-12-09 01:15:44,659 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 3, Step: 4860] Train Loss: 3.45305, Train Accuracy: 0.67334
+2024-12-09 01:15:56,799 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 3 - Train Loss: 3.5339774608612062, Train Accuracy: 0.6548367857933044
+2024-12-09 01:15:56,800 - INFO - root - Saving best model...
+2024-12-09 01:17:09,819 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 4, Step: 5022] Train Loss: 3.09138, Train Accuracy: 0.70971
+2024-12-09 01:18:31,574 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 4, Step: 5184] Train Loss: 3.19575, Train Accuracy: 0.70777
+2024-12-09 01:19:53,537 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 4, Step: 5346] Train Loss: 3.18465, Train Accuracy: 0.71113
+2024-12-09 01:21:14,828 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 4, Step: 5508] Train Loss: 3.09150, Train Accuracy: 0.71639
+2024-12-09 01:22:36,640 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 4, Step: 5670] Train Loss: 2.95140, Train Accuracy: 0.70237
+2024-12-09 01:23:57,397 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 4, Step: 5832] Train Loss: 3.07850, Train Accuracy: 0.69877
+2024-12-09 01:25:17,891 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 4, Step: 5994] Train Loss: 3.05244, Train Accuracy: 0.72581
+2024-12-09 01:26:38,316 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 4, Step: 6156] Train Loss: 3.02834, Train Accuracy: 0.73536
+2024-12-09 01:27:59,222 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 4, Step: 6318] Train Loss: 3.18306, Train Accuracy: 0.71598
+2024-12-09 01:29:21,186 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 4, Step: 6480] Train Loss: 2.32975, Train Accuracy: 0.72782
+2024-12-09 01:29:37,438 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 4 - Train Loss: 3.018676996231079, Train Accuracy: 0.7151110410690308
+2024-12-09 01:29:37,439 - INFO - root - Saving best model...
+2024-12-09 01:30:46,533 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 5, Step: 6642] Train Loss: 1.65687, Train Accuracy: 0.77885
+2024-12-09 01:32:07,081 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 5, Step: 6804] Train Loss: 1.62811, Train Accuracy: 0.76543
+2024-12-09 01:33:28,212 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 5, Step: 6966] Train Loss: 1.63880, Train Accuracy: 0.76042
+2024-12-09 01:34:49,066 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 5, Step: 7128] Train Loss: 1.82313, Train Accuracy: 0.71371
+2024-12-09 01:36:44,983 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 5, Step: 7290] Train Loss: 1.77859, Train Accuracy: 0.77165
+2024-12-09 01:38:08,067 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 5, Step: 7452] Train Loss: 1.74506, Train Accuracy: 0.74179
+2024-12-09 01:39:29,610 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 5, Step: 7614] Train Loss: 1.72531, Train Accuracy: 0.75460
+2024-12-09 01:40:49,872 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 5, Step: 7776] Train Loss: 1.74234, Train Accuracy: 0.74265
+2024-12-09 01:42:10,045 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 5, Step: 7938] Train Loss: 1.55757, Train Accuracy: 0.77063
+2024-12-09 01:43:31,305 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 5, Step: 8100] Train Loss: 1.73597, Train Accuracy: 0.75584
+2024-12-09 01:43:51,280 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 5 - Train Loss: 1.7031754970550537, Train Accuracy: 0.7555554211139679
+2024-12-09 01:43:51,280 - INFO - root - Saving best model...
+2024-12-09 01:44:56,696 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 6, Step: 8262] Train Loss: 1.51726, Train Accuracy: 0.77908
+2024-12-09 01:46:18,413 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 6, Step: 8424] Train Loss: 1.56950, Train Accuracy: 0.75992
+2024-12-09 01:47:38,798 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 6, Step: 8586] Train Loss: 1.62255, Train Accuracy: 0.75751
+2024-12-09 01:49:00,253 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 6, Step: 8748] Train Loss: 1.54720, Train Accuracy: 0.79336
+2024-12-09 01:50:20,502 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 6, Step: 8910] Train Loss: 1.54909, Train Accuracy: 0.77903
+2024-12-09 01:51:41,138 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 6, Step: 9072] Train Loss: 1.56264, Train Accuracy: 0.78512
+2024-12-09 01:53:01,583 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 6, Step: 9234] Train Loss: 1.65117, Train Accuracy: 0.76343
+2024-12-09 01:54:22,780 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 6, Step: 9396] Train Loss: 1.58903, Train Accuracy: 0.78556
+2024-12-09 01:55:43,931 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 6, Step: 9558] Train Loss: 1.59862, Train Accuracy: 0.78224
+2024-12-09 01:57:04,677 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 6, Step: 9720] Train Loss: 1.38065, Train Accuracy: 0.81530
+2024-12-09 01:57:28,998 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 6 - Train Loss: 1.5587705612182616, Train Accuracy: 0.7800562918186188
+2024-12-09 01:57:29,000 - INFO - root - Saving best model...
+2024-12-09 01:58:29,186 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 7, Step: 9882] Train Loss: 1.26865, Train Accuracy: 0.83600
+2024-12-09 01:59:51,016 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 7, Step: 10044] Train Loss: 1.43450, Train Accuracy: 0.81020
+2024-12-09 02:01:13,223 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 7, Step: 10206] Train Loss: 1.27404, Train Accuracy: 0.82968
+2024-12-09 02:02:34,221 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 7, Step: 10368] Train Loss: 1.39861, Train Accuracy: 0.79936
+2024-12-09 02:03:54,716 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 7, Step: 10530] Train Loss: 1.31356, Train Accuracy: 0.79314
+2024-12-09 02:05:15,523 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 7, Step: 10692] Train Loss: 1.21160, Train Accuracy: 0.81771
+2024-12-09 02:06:36,472 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 7, Step: 10854] Train Loss: 1.35619, Train Accuracy: 0.80231
+2024-12-09 02:07:57,222 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 7, Step: 11016] Train Loss: 1.39031, Train Accuracy: 0.81325
+2024-12-09 02:09:18,611 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 7, Step: 11178] Train Loss: 1.32036, Train Accuracy: 0.83368
+2024-12-09 02:10:39,531 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 7, Step: 11340] Train Loss: 1.29577, Train Accuracy: 0.84188
+2024-12-09 02:11:07,106 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 7 - Train Loss: 1.3263592720031738, Train Accuracy: 0.8177209675312043
+2024-12-09 02:11:07,107 - INFO - root - Saving best model...
+2024-12-09 02:12:03,547 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 8, Step: 11502] Train Loss: 1.28465, Train Accuracy: 0.83814
+2024-12-09 02:13:25,578 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 8, Step: 11664] Train Loss: 1.24690, Train Accuracy: 0.83526
+2024-12-09 02:14:46,721 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 8, Step: 11826] Train Loss: 1.19877, Train Accuracy: 0.83264
+2024-12-09 02:16:10,751 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 8, Step: 11988] Train Loss: 1.24283, Train Accuracy: 0.84431
+2024-12-09 02:17:33,323 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 8, Step: 12150] Train Loss: 1.20175, Train Accuracy: 0.82402
+2024-12-09 02:18:54,526 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 8, Step: 12312] Train Loss: 1.33226, Train Accuracy: 0.82236
+2024-12-09 02:20:16,068 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 8, Step: 12474] Train Loss: 1.22873, Train Accuracy: 0.84110
+2024-12-09 02:21:36,885 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 8, Step: 12636] Train Loss: 1.20350, Train Accuracy: 0.84096
+2024-12-09 02:22:58,312 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 8, Step: 12798] Train Loss: 1.24373, Train Accuracy: 0.83711
+2024-12-09 02:24:20,328 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 8, Step: 12960] Train Loss: 1.17723, Train Accuracy: 0.85743
+2024-12-09 02:24:51,910 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 8 - Train Loss: 1.236033856868744, Train Accuracy: 0.8373334527015686
+2024-12-09 02:24:51,911 - INFO - root - Saving best model...
+2024-12-09 02:25:43,496 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 9, Step: 13122] Train Loss: 1.01398, Train Accuracy: 0.87817
+2024-12-09 02:27:03,458 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 9, Step: 13284] Train Loss: 1.11021, Train Accuracy: 0.86245
+2024-12-09 02:28:23,783 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 9, Step: 13446] Train Loss: 1.12023, Train Accuracy: 0.84984
+2024-12-09 02:29:46,750 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 9, Step: 13608] Train Loss: 1.19056, Train Accuracy: 0.86061
+2024-12-09 02:31:07,825 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 9, Step: 13770] Train Loss: 1.04209, Train Accuracy: 0.87017
+2024-12-09 02:32:30,114 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 9, Step: 13932] Train Loss: 1.17314, Train Accuracy: 0.84802
+2024-12-09 02:33:50,992 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 9, Step: 14094] Train Loss: 1.15947, Train Accuracy: 0.83709
+2024-12-09 02:35:11,714 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 9, Step: 14256] Train Loss: 1.10972, Train Accuracy: 0.85759
+2024-12-09 02:36:33,181 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 9, Step: 14418] Train Loss: 1.27614, Train Accuracy: 0.84648
+2024-12-09 02:37:53,380 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 9, Step: 14580] Train Loss: 1.17994, Train Accuracy: 0.84456
+2024-12-09 02:38:29,112 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 9 - Train Loss: 1.1375492572784425, Train Accuracy: 0.8554977476596832
+2024-12-09 02:38:29,113 - INFO - root - Saving best model...
+2024-12-09 02:39:17,975 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 10, Step: 14742] Train Loss: 0.92273, Train Accuracy: 0.88829
+2024-12-09 02:40:38,340 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 10, Step: 14904] Train Loss: 1.00460, Train Accuracy: 0.85397
+2024-12-09 02:42:00,340 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 10, Step: 15066] Train Loss: 1.00453, Train Accuracy: 0.85326
+2024-12-09 02:43:22,514 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 10, Step: 15228] Train Loss: 1.13796, Train Accuracy: 0.86034
+2024-12-09 02:44:45,387 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 10, Step: 15390] Train Loss: 0.96145, Train Accuracy: 0.86624
+2024-12-09 02:46:06,895 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 10, Step: 15552] Train Loss: 1.09697, Train Accuracy: 0.85072
+2024-12-09 02:47:28,459 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 10, Step: 15714] Train Loss: 0.99504, Train Accuracy: 0.87328
+2024-12-09 02:48:50,100 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 10, Step: 15876] Train Loss: 0.93499, Train Accuracy: 0.87319
+2024-12-09 02:50:11,296 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 10, Step: 16038] Train Loss: 1.02558, Train Accuracy: 0.88309
+2024-12-09 02:51:32,008 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 10, Step: 16200] Train Loss: 0.97107, Train Accuracy: 0.87933
+2024-12-09 02:52:11,527 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 10 - Train Loss: 1.0054940640926362, Train Accuracy: 0.8681709110736847
+2024-12-09 02:52:11,529 - INFO - root - Saving best model...
+2024-12-09 02:52:56,641 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 11, Step: 16362] Train Loss: 0.91876, Train Accuracy: 0.87539
+2024-12-09 02:54:18,599 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 11, Step: 16524] Train Loss: 0.84339, Train Accuracy: 0.88186
+2024-12-09 02:55:39,318 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 11, Step: 16686] Train Loss: 0.98787, Train Accuracy: 0.87190
+2024-12-09 02:57:02,046 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 11, Step: 16848] Train Loss: 0.98376, Train Accuracy: 0.88639
+2024-12-09 02:58:22,703 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 11, Step: 17010] Train Loss: 1.07040, Train Accuracy: 0.85391
+2024-12-09 02:59:44,859 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 11, Step: 17172] Train Loss: 1.03732, Train Accuracy: 0.87873
+2024-12-09 03:01:06,544 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 11, Step: 17334] Train Loss: 0.94252, Train Accuracy: 0.87513
+2024-12-09 03:02:28,349 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 11, Step: 17496] Train Loss: 0.97315, Train Accuracy: 0.86464
+2024-12-09 03:03:50,056 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 11, Step: 17658] Train Loss: 0.98089, Train Accuracy: 0.86952
+2024-12-09 03:05:11,334 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 11, Step: 17820] Train Loss: 0.96790, Train Accuracy: 0.87800
+2024-12-09 03:05:54,819 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 11 - Train Loss: 0.9705962598323822, Train Accuracy: 0.8735455572605133
+2024-12-09 03:05:54,820 - INFO - root - Saving best model...
+2024-12-09 03:06:35,184 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 12, Step: 17982] Train Loss: 0.83190, Train Accuracy: 0.89218
+2024-12-09 03:07:57,858 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 12, Step: 18144] Train Loss: 0.88872, Train Accuracy: 0.90299
+2024-12-09 03:09:18,529 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 12, Step: 18306] Train Loss: 0.88788, Train Accuracy: 0.88772
+2024-12-09 03:10:40,394 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 12, Step: 18468] Train Loss: 0.93286, Train Accuracy: 0.88418
+2024-12-09 03:12:01,285 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 12, Step: 18630] Train Loss: 0.89733, Train Accuracy: 0.89163
+2024-12-09 03:13:21,749 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 12, Step: 18792] Train Loss: 1.03251, Train Accuracy: 0.87164
+2024-12-09 03:14:44,623 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 12, Step: 18954] Train Loss: 0.89034, Train Accuracy: 0.89181
+2024-12-09 03:16:06,198 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 12, Step: 19116] Train Loss: 0.90090, Train Accuracy: 0.87652
+2024-12-09 03:17:27,697 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 12, Step: 19278] Train Loss: 0.91836, Train Accuracy: 0.88004
+2024-12-09 03:18:47,915 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 12, Step: 19440] Train Loss: 0.93717, Train Accuracy: 0.90354
+2024-12-09 03:19:35,567 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 12 - Train Loss: 0.9117969036102295, Train Accuracy: 0.8882241010665893
+2024-12-09 03:19:35,568 - INFO - root - Saving best model...
+2024-12-09 03:20:13,121 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 13, Step: 19602] Train Loss: 0.80086, Train Accuracy: 0.88794
+2024-12-09 03:21:34,979 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 13, Step: 19764] Train Loss: 0.84596, Train Accuracy: 0.88889
+2024-12-09 03:22:56,341 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 13, Step: 19926] Train Loss: 0.80766, Train Accuracy: 0.89417
+2024-12-09 03:24:17,463 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 13, Step: 20088] Train Loss: 0.73589, Train Accuracy: 0.91417
+2024-12-09 03:25:38,124 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 13, Step: 20250] Train Loss: 0.80351, Train Accuracy: 0.89031
+2024-12-09 03:26:58,381 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 13, Step: 20412] Train Loss: 0.77457, Train Accuracy: 0.90125
+2024-12-09 03:28:19,293 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 13, Step: 20574] Train Loss: 0.83843, Train Accuracy: 0.90021
+2024-12-09 03:29:40,697 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 13, Step: 20736] Train Loss: 0.74372, Train Accuracy: 0.90572
+2024-12-09 03:31:01,874 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 13, Step: 20898] Train Loss: 0.81364, Train Accuracy: 0.88514
+2024-12-09 03:32:23,455 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 13, Step: 21060] Train Loss: 0.83034, Train Accuracy: 0.89774
+2024-12-09 03:33:15,167 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 13 - Train Loss: 0.7994580566883087, Train Accuracy: 0.896553236246109
+2024-12-09 03:33:15,167 - INFO - root - Saving best model...
+2024-12-09 03:33:48,400 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 14, Step: 21222] Train Loss: 0.86182, Train Accuracy: 0.89842
+2024-12-09 03:35:09,195 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 14, Step: 21384] Train Loss: 0.83084, Train Accuracy: 0.89413
+2024-12-09 03:36:29,478 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 14, Step: 21546] Train Loss: 0.91618, Train Accuracy: 0.88030
+2024-12-09 03:37:51,376 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 14, Step: 21708] Train Loss: 0.70158, Train Accuracy: 0.91880
+2024-12-09 03:39:12,308 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 14, Step: 21870] Train Loss: 0.76619, Train Accuracy: 0.90521
+2024-12-09 03:40:33,899 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 14, Step: 22032] Train Loss: 0.74281, Train Accuracy: 0.89741
+2024-12-09 03:41:54,881 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 14, Step: 22194] Train Loss: 0.81198, Train Accuracy: 0.89815
+2024-12-09 03:43:16,396 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 14, Step: 22356] Train Loss: 0.76103, Train Accuracy: 0.91269
+2024-12-09 03:45:17,656 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 14, Step: 22518] Train Loss: 0.82887, Train Accuracy: 0.88030
+2024-12-09 03:46:38,694 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 14, Step: 22680] Train Loss: 0.69788, Train Accuracy: 0.90552
+2024-12-09 03:47:34,296 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 14 - Train Loss: 0.7919172704219818, Train Accuracy: 0.8990929782390594
+2024-12-09 03:47:34,297 - INFO - root - Saving best model...
+2024-12-09 03:48:03,794 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 15, Step: 22842] Train Loss: 0.74044, Train Accuracy: 0.90665
+2024-12-09 03:49:24,603 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 15, Step: 23004] Train Loss: 0.73939, Train Accuracy: 0.90259
+2024-12-09 03:50:45,573 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 15, Step: 23166] Train Loss: 0.66683, Train Accuracy: 0.91042
+2024-12-09 03:52:07,923 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 15, Step: 23328] Train Loss: 0.68943, Train Accuracy: 0.91198
+2024-12-09 03:53:28,839 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 15, Step: 23490] Train Loss: 0.66152, Train Accuracy: 0.90909
+2024-12-09 03:54:49,848 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 15, Step: 23652] Train Loss: 0.72687, Train Accuracy: 0.91554
+2024-12-09 03:56:10,309 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 15, Step: 23814] Train Loss: 0.75405, Train Accuracy: 0.90766
+2024-12-09 03:57:30,423 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 15, Step: 23976] Train Loss: 0.80120, Train Accuracy: 0.89539
+2024-12-09 03:58:51,133 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 15, Step: 24138] Train Loss: 0.75466, Train Accuracy: 0.91575
+2024-12-09 04:00:12,144 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 15, Step: 24300] Train Loss: 0.74763, Train Accuracy: 0.89541
+2024-12-09 04:01:11,485 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 15 - Train Loss: 0.7282022595405578, Train Accuracy: 0.907048225402832
+2024-12-09 04:01:11,486 - INFO - root - Saving best model...
+2024-12-09 04:01:36,075 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 16, Step: 24462] Train Loss: 0.64670, Train Accuracy: 0.92055
+2024-12-09 04:02:56,269 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 16, Step: 24624] Train Loss: 0.65934, Train Accuracy: 0.91039
+2024-12-09 04:04:16,475 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 16, Step: 24786] Train Loss: 0.70793, Train Accuracy: 0.90833
+2024-12-09 04:05:38,213 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 16, Step: 24948] Train Loss: 0.71919, Train Accuracy: 0.93222
+2024-12-09 04:06:58,387 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 16, Step: 25110] Train Loss: 0.67197, Train Accuracy: 0.91563
+2024-12-09 04:08:20,076 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 16, Step: 25272] Train Loss: 0.72919, Train Accuracy: 0.90272
+2024-12-09 04:09:40,355 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 16, Step: 25434] Train Loss: 0.70663, Train Accuracy: 0.91819
+2024-12-09 04:11:00,441 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 16, Step: 25596] Train Loss: 0.80669, Train Accuracy: 0.89032
+2024-12-09 04:12:21,090 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 16, Step: 25758] Train Loss: 0.68719, Train Accuracy: 0.89279
+2024-12-09 04:13:41,731 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 16, Step: 25920] Train Loss: 0.69565, Train Accuracy: 0.90870
+2024-12-09 04:14:46,847 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 16 - Train Loss: 0.7030484557151795, Train Accuracy: 0.9099837124347687
+2024-12-09 04:14:46,849 - INFO - root - Saving best model...
+2024-12-09 04:15:08,343 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 17, Step: 26082] Train Loss: 0.62533, Train Accuracy: 0.92423
+2024-12-09 04:17:08,891 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 17, Step: 26244] Train Loss: 0.60314, Train Accuracy: 0.92461
+2024-12-09 04:19:21,628 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 17, Step: 26406] Train Loss: 0.67312, Train Accuracy: 0.91179
+2024-12-09 04:20:42,316 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 17, Step: 26568] Train Loss: 0.70114, Train Accuracy: 0.92194
+2024-12-09 04:22:03,417 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 17, Step: 26730] Train Loss: 0.61120, Train Accuracy: 0.91258
+2024-12-09 04:23:24,218 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 17, Step: 26892] Train Loss: 0.63889, Train Accuracy: 0.93400
+2024-12-09 04:24:44,727 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 17, Step: 27054] Train Loss: 0.63492, Train Accuracy: 0.91142
+2024-12-09 04:26:05,354 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 17, Step: 27216] Train Loss: 0.76437, Train Accuracy: 0.89855
+2024-12-09 04:27:25,510 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 17, Step: 27378] Train Loss: 0.68928, Train Accuracy: 0.91216
+2024-12-09 04:28:47,140 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 17, Step: 27540] Train Loss: 0.79923, Train Accuracy: 0.90543
+2024-12-09 04:29:55,474 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 17 - Train Loss: 0.6740603029727936, Train Accuracy: 0.9156706273555756
+2024-12-09 04:29:55,476 - INFO - root - Saving best model...
+2024-12-09 04:30:14,109 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 18, Step: 27702] Train Loss: 0.60803, Train Accuracy: 0.93021
+2024-12-09 04:31:35,716 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 18, Step: 27864] Train Loss: 0.70725, Train Accuracy: 0.89810
+2024-12-09 04:32:56,879 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 18, Step: 28026] Train Loss: 0.69637, Train Accuracy: 0.92141
+2024-12-09 04:34:18,214 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 18, Step: 28188] Train Loss: 0.64813, Train Accuracy: 0.91496
+2024-12-09 04:35:38,486 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 18, Step: 28350] Train Loss: 0.54007, Train Accuracy: 0.91483
+2024-12-09 04:36:59,626 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 18, Step: 28512] Train Loss: 0.73226, Train Accuracy: 0.90506
+2024-12-09 04:38:20,183 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 18, Step: 28674] Train Loss: 0.62385, Train Accuracy: 0.91564
+2024-12-09 04:39:41,205 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 18, Step: 28836] Train Loss: 0.63990, Train Accuracy: 0.90481
+2024-12-09 04:41:03,139 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 18, Step: 28998] Train Loss: 0.59666, Train Accuracy: 0.93059
+2024-12-09 04:42:23,877 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 18, Step: 29160] Train Loss: 0.66508, Train Accuracy: 0.90155
+2024-12-09 04:43:36,737 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 18 - Train Loss: 0.6457601010799408, Train Accuracy: 0.9137156009674072
+2024-12-09 04:43:45,938 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 19, Step: 29322] Train Loss: 0.58320, Train Accuracy: 0.93444
+2024-12-09 04:45:08,184 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 19, Step: 29484] Train Loss: 0.55761, Train Accuracy: 0.91586
+2024-12-09 04:46:29,869 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 19, Step: 29646] Train Loss: 0.52057, Train Accuracy: 0.92388
+2024-12-09 04:47:50,545 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 19, Step: 29808] Train Loss: 0.64389, Train Accuracy: 0.92451
+2024-12-09 04:49:11,794 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 19, Step: 29970] Train Loss: 0.61184, Train Accuracy: 0.92128
+2024-12-09 04:50:32,184 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 19, Step: 30132] Train Loss: 0.60767, Train Accuracy: 0.91009
+2024-12-09 04:51:53,554 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 19, Step: 30294] Train Loss: 0.57393, Train Accuracy: 0.91381
+2024-12-09 04:53:14,718 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 19, Step: 30456] Train Loss: 0.60724, Train Accuracy: 0.90589
+2024-12-09 04:54:35,377 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 19, Step: 30618] Train Loss: 0.51824, Train Accuracy: 0.93011
+2024-12-09 04:55:56,270 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 19, Step: 30780] Train Loss: 0.60458, Train Accuracy: 0.92226
+2024-12-09 04:57:13,093 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 19 - Train Loss: 0.5828770458698272, Train Accuracy: 0.9202132642269134
+2024-12-09 04:57:13,096 - INFO - root - Saving best model...
+2024-12-09 04:57:22,923 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 20, Step: 30942] Train Loss: 0.56845, Train Accuracy: 0.93048
+2024-12-09 04:58:45,980 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 20, Step: 31104] Train Loss: 0.62749, Train Accuracy: 0.91414
+2024-12-09 05:00:06,862 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 20, Step: 31266] Train Loss: 0.57370, Train Accuracy: 0.91350
+2024-12-09 05:01:28,209 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 20, Step: 31428] Train Loss: 0.55546, Train Accuracy: 0.92033
+2024-12-09 05:02:49,956 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 20, Step: 31590] Train Loss: 0.51039, Train Accuracy: 0.92412
+2024-12-09 05:04:10,722 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 20, Step: 31752] Train Loss: 0.58912, Train Accuracy: 0.92443
+2024-12-09 05:05:31,707 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 20, Step: 31914] Train Loss: 0.49122, Train Accuracy: 0.93494
+2024-12-09 05:06:52,942 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 20, Step: 32076] Train Loss: 0.59186, Train Accuracy: 0.92357
+2024-12-09 05:08:14,157 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 20, Step: 32238] Train Loss: 0.56870, Train Accuracy: 0.90447
+2024-12-09 05:09:35,485 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 20, Step: 32400] Train Loss: 0.58036, Train Accuracy: 0.92466
+2024-12-09 05:10:55,102 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 20 - Train Loss: 0.565675288438797, Train Accuracy: 0.9214638769626617
+2024-12-09 05:10:55,104 - INFO - root - Saving best model...
+2024-12-09 05:11:00,096 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 21, Step: 32562] Train Loss: 0.55813, Train Accuracy: 0.92138
+2024-12-09 05:12:22,248 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 21, Step: 32724] Train Loss: 0.39523, Train Accuracy: 0.94421
+2024-12-09 05:13:42,828 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 21, Step: 32886] Train Loss: 0.75137, Train Accuracy: 0.91323
+2024-12-09 05:15:03,961 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 21, Step: 33048] Train Loss: 0.57201, Train Accuracy: 0.92114
+2024-12-09 05:16:25,328 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 21, Step: 33210] Train Loss: 0.47144, Train Accuracy: 0.93666
+2024-12-09 05:17:46,871 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 21, Step: 33372] Train Loss: 0.54381, Train Accuracy: 0.93487
+2024-12-09 05:19:07,421 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 21, Step: 33534] Train Loss: 0.55695, Train Accuracy: 0.91824
+2024-12-09 05:20:27,998 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 21, Step: 33696] Train Loss: 0.50347, Train Accuracy: 0.93467
+2024-12-09 05:21:48,696 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 21, Step: 33858] Train Loss: 0.58036, Train Accuracy: 0.92513
+2024-12-09 05:23:11,050 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 21, Step: 34020] Train Loss: 0.50404, Train Accuracy: 0.93987
+2024-12-09 05:24:32,814 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 21, Step: 34182] Train Loss: 0.56134, Train Accuracy: 0.92316
+2024-12-09 05:24:35,647 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 21 - Train Loss: 0.5452850786122408, Train Accuracy: 0.9284139004620638
+2024-12-09 05:24:35,648 - INFO - root - Saving best model...
+2024-12-09 05:26:00,688 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 22, Step: 34344] Train Loss: 0.49129, Train Accuracy: 0.92958
+2024-12-09 05:27:21,936 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 22, Step: 34506] Train Loss: 0.62894, Train Accuracy: 0.91979
+2024-12-09 05:28:45,597 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 22, Step: 34668] Train Loss: 0.58285, Train Accuracy: 0.93431
+2024-12-09 05:30:06,045 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 22, Step: 34830] Train Loss: 0.61516, Train Accuracy: 0.93170
+2024-12-09 05:31:27,822 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 22, Step: 34992] Train Loss: 0.53691, Train Accuracy: 0.94223
+2024-12-09 05:32:49,327 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 22, Step: 35154] Train Loss: 0.56660, Train Accuracy: 0.93257
+2024-12-09 05:34:12,691 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 22, Step: 35316] Train Loss: 0.50103, Train Accuracy: 0.93299
+2024-12-09 05:35:34,740 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 22, Step: 35478] Train Loss: 0.53855, Train Accuracy: 0.93320
+2024-12-09 05:36:55,656 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 22, Step: 35640] Train Loss: 0.45083, Train Accuracy: 0.94100
+2024-12-09 05:38:17,162 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 22, Step: 35802] Train Loss: 0.59107, Train Accuracy: 0.90928
+2024-12-09 05:38:23,942 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 22 - Train Loss: 0.550322350859642, Train Accuracy: 0.930663776397705
+2024-12-09 05:38:23,942 - INFO - root - Saving best model...
+2024-12-09 05:39:45,024 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 23, Step: 35964] Train Loss: 0.53696, Train Accuracy: 0.90748
+2024-12-09 05:41:05,877 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 23, Step: 36126] Train Loss: 0.49055, Train Accuracy: 0.93155
+2024-12-09 05:42:27,354 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 23, Step: 36288] Train Loss: 0.50237, Train Accuracy: 0.93191
+2024-12-09 05:43:48,042 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 23, Step: 36450] Train Loss: 0.56306, Train Accuracy: 0.92539
+2024-12-09 05:45:08,900 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 23, Step: 36612] Train Loss: 0.56543, Train Accuracy: 0.91232
+2024-12-09 05:46:29,669 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 23, Step: 36774] Train Loss: 0.55608, Train Accuracy: 0.91832
+2024-12-09 05:47:51,066 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 23, Step: 36936] Train Loss: 0.51032, Train Accuracy: 0.92130
+2024-12-09 05:49:11,866 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 23, Step: 37098] Train Loss: 0.60310, Train Accuracy: 0.92341
+2024-12-09 05:50:34,069 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 23, Step: 37260] Train Loss: 0.46363, Train Accuracy: 0.93391
+2024-12-09 05:51:56,775 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 23, Step: 37422] Train Loss: 0.54132, Train Accuracy: 0.93361
+2024-12-09 05:52:07,575 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 23 - Train Loss: 0.5332813292741776, Train Accuracy: 0.9239220798015595
+2024-12-09 05:53:17,616 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 24, Step: 37584] Train Loss: 0.47486, Train Accuracy: 0.92474
+2024-12-09 05:54:38,692 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 24, Step: 37746] Train Loss: 0.50809, Train Accuracy: 0.92355
+2024-12-09 05:56:00,016 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 24, Step: 37908] Train Loss: 0.56281, Train Accuracy: 0.92243
+2024-12-09 05:57:20,851 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 24, Step: 38070] Train Loss: 0.54744, Train Accuracy: 0.91667
+2024-12-09 05:58:41,640 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 24, Step: 38232] Train Loss: 0.49742, Train Accuracy: 0.94268
+2024-12-09 06:00:02,150 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 24, Step: 38394] Train Loss: 0.43461, Train Accuracy: 0.93658
+2024-12-09 06:01:53,968 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 24, Step: 38556] Train Loss: 0.48721, Train Accuracy: 0.93262
+2024-12-09 06:03:15,699 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 24, Step: 38718] Train Loss: 0.56082, Train Accuracy: 0.92635
+2024-12-09 06:04:36,823 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 24, Step: 38880] Train Loss: 0.53228, Train Accuracy: 0.91309
+2024-12-09 06:05:58,211 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 24, Step: 39042] Train Loss: 0.52713, Train Accuracy: 0.92811
+2024-12-09 06:06:12,916 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 24 - Train Loss: 0.5132666170597077, Train Accuracy: 0.9266813218593597
+2024-12-09 06:07:18,593 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 25, Step: 39204] Train Loss: 0.40955, Train Accuracy: 0.94526
+2024-12-09 06:08:40,684 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 25, Step: 39366] Train Loss: 0.42147, Train Accuracy: 0.92529
+2024-12-09 06:10:01,596 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 25, Step: 39528] Train Loss: 0.46950, Train Accuracy: 0.92850
+2024-12-09 06:11:22,670 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 25, Step: 39690] Train Loss: 0.48908, Train Accuracy: 0.93710
+2024-12-09 06:12:43,423 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 25, Step: 39852] Train Loss: 0.55184, Train Accuracy: 0.92864
+2024-12-09 06:14:04,459 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 25, Step: 40014] Train Loss: 0.52574, Train Accuracy: 0.93684
+2024-12-09 06:15:26,120 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 25, Step: 40176] Train Loss: 0.54258, Train Accuracy: 0.92175
+2024-12-09 06:16:46,822 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 25, Step: 40338] Train Loss: 0.51152, Train Accuracy: 0.92412
+2024-12-09 06:18:09,712 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 25, Step: 40500] Train Loss: 0.42598, Train Accuracy: 0.94328
+2024-12-09 06:19:30,104 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 25, Step: 40662] Train Loss: 0.46869, Train Accuracy: 0.93305
+2024-12-09 06:19:48,760 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 25 - Train Loss: 0.48159582912921906, Train Accuracy: 0.9323843896389008
+2024-12-09 06:19:48,760 - INFO - root - Saving best model...
+2024-12-09 06:20:56,479 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 26, Step: 40824] Train Loss: 0.40088, Train Accuracy: 0.94597
+2024-12-09 06:22:17,712 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 26, Step: 40986] Train Loss: 0.45000, Train Accuracy: 0.94185
+2024-12-09 06:23:38,570 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 26, Step: 41148] Train Loss: 0.47571, Train Accuracy: 0.94148
+2024-12-09 06:24:59,573 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 26, Step: 41310] Train Loss: 0.46076, Train Accuracy: 0.93518
+2024-12-09 06:26:21,207 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 26, Step: 41472] Train Loss: 0.40658, Train Accuracy: 0.94286
+2024-12-09 06:27:41,509 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 26, Step: 41634] Train Loss: 0.51965, Train Accuracy: 0.92895
+2024-12-09 06:29:02,797 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 26, Step: 41796] Train Loss: 0.54622, Train Accuracy: 0.92316
+2024-12-09 06:30:24,011 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 26, Step: 41958] Train Loss: 0.48927, Train Accuracy: 0.94080
+2024-12-09 06:31:44,497 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 26, Step: 42120] Train Loss: 0.52475, Train Accuracy: 0.93900
+2024-12-09 06:33:05,332 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 26, Step: 42282] Train Loss: 0.50028, Train Accuracy: 0.94068
+2024-12-09 06:33:28,025 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 26 - Train Loss: 0.4774108350276947, Train Accuracy: 0.9379926502704621
+2024-12-09 06:33:28,026 - INFO - root - Saving best model...
+2024-12-09 06:34:30,853 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 27, Step: 42444] Train Loss: 0.42337, Train Accuracy: 0.93411
+2024-12-09 06:35:54,460 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 27, Step: 42606] Train Loss: 0.40357, Train Accuracy: 0.93431
+2024-12-09 06:37:14,962 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 27, Step: 42768] Train Loss: 0.44627, Train Accuracy: 0.93258
+2024-12-09 06:38:36,844 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 27, Step: 42930] Train Loss: 0.47067, Train Accuracy: 0.92806
+2024-12-09 06:39:57,261 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 27, Step: 43092] Train Loss: 0.53664, Train Accuracy: 0.91975
+2024-12-09 06:41:20,077 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 27, Step: 43254] Train Loss: 0.47081, Train Accuracy: 0.92739
+2024-12-09 06:42:42,727 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 27, Step: 43416] Train Loss: 0.49087, Train Accuracy: 0.93361
+2024-12-09 06:44:05,232 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 27, Step: 43578] Train Loss: 0.45462, Train Accuracy: 0.93631
+2024-12-09 06:45:26,911 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 27, Step: 43740] Train Loss: 0.43157, Train Accuracy: 0.93213
+2024-12-09 06:46:49,056 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 27, Step: 43902] Train Loss: 0.46244, Train Accuracy: 0.93585
+2024-12-09 06:47:15,912 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 27 - Train Loss: 0.4590843081474304, Train Accuracy: 0.9314090430736541
+2024-12-09 06:48:09,328 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 28, Step: 44064] Train Loss: 0.37430, Train Accuracy: 0.94915
+2024-12-09 06:49:32,097 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 28, Step: 44226] Train Loss: 0.45843, Train Accuracy: 0.93451
+2024-12-09 06:50:53,682 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 28, Step: 44388] Train Loss: 0.46932, Train Accuracy: 0.93552
+2024-12-09 06:52:14,251 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 28, Step: 44550] Train Loss: 0.42317, Train Accuracy: 0.92769
+2024-12-09 06:53:35,039 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 28, Step: 44712] Train Loss: 0.41387, Train Accuracy: 0.94039
+2024-12-09 06:54:56,303 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 28, Step: 44874] Train Loss: 0.40789, Train Accuracy: 0.93725
+2024-12-09 06:56:17,401 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 28, Step: 45036] Train Loss: 0.43424, Train Accuracy: 0.94737
+2024-12-09 06:57:39,999 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 28, Step: 45198] Train Loss: 0.39376, Train Accuracy: 0.93417
+2024-12-09 06:59:02,345 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 28, Step: 45360] Train Loss: 0.51055, Train Accuracy: 0.93961
+2024-12-09 07:00:24,045 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 28, Step: 45522] Train Loss: 0.48962, Train Accuracy: 0.93312
+2024-12-09 07:00:54,660 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 28 - Train Loss: 0.437514865398407, Train Accuracy: 0.9378775119781494
+2024-12-09 07:01:45,754 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 29, Step: 45684] Train Loss: 0.39560, Train Accuracy: 0.95000
+2024-12-09 07:03:06,981 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 29, Step: 45846] Train Loss: 0.46281, Train Accuracy: 0.94974
+2024-12-09 07:04:28,017 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 29, Step: 46008] Train Loss: 0.45527, Train Accuracy: 0.93000
+2024-12-09 07:05:49,515 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 29, Step: 46170] Train Loss: 0.46084, Train Accuracy: 0.93534
+2024-12-09 07:07:31,232 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 29, Step: 46332] Train Loss: 0.39936, Train Accuracy: 0.95030
+2024-12-09 07:08:52,483 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 29, Step: 46494] Train Loss: 0.44860, Train Accuracy: 0.94645
+2024-12-09 07:10:53,011 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 29, Step: 46656] Train Loss: 0.50710, Train Accuracy: 0.93070
+2024-12-09 07:12:13,989 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 29, Step: 46818] Train Loss: 0.43117, Train Accuracy: 0.94318
+2024-12-09 07:13:35,198 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 29, Step: 46980] Train Loss: 0.41874, Train Accuracy: 0.93685
+2024-12-09 07:14:55,739 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 29, Step: 47142] Train Loss: 0.38816, Train Accuracy: 0.95464
+2024-12-09 07:15:30,272 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 29 - Train Loss: 0.43676486015319826, Train Accuracy: 0.9427212357521058
+2024-12-09 07:15:30,274 - INFO - root - Saving best model...
+2024-12-09 07:16:22,416 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 30, Step: 47304] Train Loss: 0.46745, Train Accuracy: 0.93838
+2024-12-09 07:17:44,041 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 30, Step: 47466] Train Loss: 0.44077, Train Accuracy: 0.94639
+2024-12-09 07:19:04,858 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 30, Step: 47628] Train Loss: 0.54665, Train Accuracy: 0.93165
+2024-12-09 07:20:26,299 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 30, Step: 47790] Train Loss: 0.45877, Train Accuracy: 0.93103
+2024-12-09 07:21:47,294 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 30, Step: 47952] Train Loss: 0.40255, Train Accuracy: 0.94217
+2024-12-09 07:23:08,360 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 30, Step: 48114] Train Loss: 0.44295, Train Accuracy: 0.94008
+2024-12-09 07:24:31,027 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 30, Step: 48276] Train Loss: 0.38095, Train Accuracy: 0.93851
+2024-12-09 07:25:51,619 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 30, Step: 48438] Train Loss: 0.52136, Train Accuracy: 0.94652
+2024-12-09 07:27:11,560 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 30, Step: 48600] Train Loss: 0.44119, Train Accuracy: 0.94111
+2024-12-09 07:28:31,328 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 30, Step: 48762] Train Loss: 0.47973, Train Accuracy: 0.93242
+2024-12-09 07:29:09,464 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 30 - Train Loss: 0.4582385390996933, Train Accuracy: 0.9388271152973175
+2024-12-09 07:29:51,476 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 31, Step: 48924] Train Loss: 0.49763, Train Accuracy: 0.93255
+2024-12-09 07:31:13,376 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 31, Step: 49086] Train Loss: 0.38257, Train Accuracy: 0.95090
+2024-12-09 07:32:34,555 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 31, Step: 49248] Train Loss: 0.47683, Train Accuracy: 0.92695
+2024-12-09 07:33:56,668 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 31, Step: 49410] Train Loss: 0.41331, Train Accuracy: 0.94324
+2024-12-09 07:35:17,898 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 31, Step: 49572] Train Loss: 0.37563, Train Accuracy: 0.94175
+2024-12-09 07:36:41,548 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 31, Step: 49734] Train Loss: 0.42500, Train Accuracy: 0.93750
+2024-12-09 07:38:03,893 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 31, Step: 49896] Train Loss: 0.39665, Train Accuracy: 0.92999
+2024-12-09 07:39:25,026 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 31, Step: 50058] Train Loss: 0.37786, Train Accuracy: 0.95440
+2024-12-09 07:40:45,896 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 31, Step: 50220] Train Loss: 0.42773, Train Accuracy: 0.93914
+2024-12-09 07:42:06,725 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 31, Step: 50382] Train Loss: 0.54173, Train Accuracy: 0.91423
+2024-12-09 07:42:49,410 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 31 - Train Loss: 0.4314942300319672, Train Accuracy: 0.9370651841163635
+2024-12-09 07:43:27,654 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 32, Step: 50544] Train Loss: 0.45901, Train Accuracy: 0.93644
+2024-12-09 07:44:48,342 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 32, Step: 50706] Train Loss: 0.51664, Train Accuracy: 0.92786
+2024-12-09 07:46:08,766 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 32, Step: 50868] Train Loss: 0.45932, Train Accuracy: 0.93312
+2024-12-09 07:47:29,817 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 32, Step: 51030] Train Loss: 0.37550, Train Accuracy: 0.94989
+2024-12-09 07:48:51,494 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 32, Step: 51192] Train Loss: 0.46142, Train Accuracy: 0.93717
+2024-12-09 07:50:12,707 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 32, Step: 51354] Train Loss: 0.48456, Train Accuracy: 0.93586
+2024-12-09 07:51:34,136 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 32, Step: 51516] Train Loss: 0.44897, Train Accuracy: 0.95488
+2024-12-09 07:52:54,781 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 32, Step: 51678] Train Loss: 0.43696, Train Accuracy: 0.93670
+2024-12-09 07:54:16,739 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 32, Step: 51840] Train Loss: 0.43650, Train Accuracy: 0.93096
+2024-12-09 07:56:15,223 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - [Epoch: 32, Step: 52002] Train Loss: 0.42030, Train Accuracy: 0.93667
+2024-12-09 07:57:02,426 - INFO - /home/yifei/code/NLP/BERT-EM/pretrain.py - Epoch 32 - Train Loss: 0.4499188482761383, Train Accuracy: 0.9379540860652924
